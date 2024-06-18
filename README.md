@@ -8,7 +8,7 @@ This repository is a place for the CCPP team to push code for Helm chart configu
 
 ## Dev/Main branch Overview
 
-    cluster/    # Kubernetes cluster & JupyterHub deployment config files
+    clusters/    # Kubernetes clusters & JupyterHub deployment config files
     README.md   # The file you are reading now
 
 We utilize a GitFlow development strategy where changes are made to feature branches, typically dev for this repository, and pull requests are made to merge changes back in to the main branch. 
