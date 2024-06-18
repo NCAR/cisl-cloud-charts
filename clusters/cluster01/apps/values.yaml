@@ -8,7 +8,7 @@ binderhub:
   enable: false
 cloud-docs:
   enable: false
-jhub-test:
+jhubtest:
   enable: true
 jupyterhub:
   enable: false
