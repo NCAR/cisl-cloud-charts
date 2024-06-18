@@ -2,7 +2,7 @@ spec:
   destination:
     server: https://kubernetes.default.svc
   source:
-    repoURL: https://github.com/NCAR/cisl-cloud.git
+    repoURL: https://github.com/NCAR/cisl-cloud-charts.git
     targetRevision: HEAD
 binderhub:
   enable: false
