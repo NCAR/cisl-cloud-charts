@@ -5,11 +5,11 @@ spec:
     repoURL: https://github.com/NCAR/cisl-cloud-charts.git
     targetRevision: HEAD
 
-argo-cd:
+"argo-cd":
   enable: false
 harbor:
   enable: false
-ingress-nginx:
+"ingress-nginx":
   enable: false
 monitoring:
   enable: false

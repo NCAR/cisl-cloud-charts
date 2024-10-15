@@ -1,4 +1,4 @@
-{{- if .Values.argo-cd.enable }}
+{{- if (index .Values "argo-cd" "enable") }}
 apiVersion: argoproj.io/v1alpha1
 kind: Application
 metadata:
