@@ -7,6 +7,10 @@ spec:
 
 "argo-cd":
   enable: false
+"cert-manager":
+  enable: false
+"external-dns":
+  enable: false
 harbor:
   enable: false
 "ingress-nginx":
@@ -14,4 +18,8 @@ harbor:
 monitoring:
   enable: false
 kured:
+  enable: false
+"rook-ceph":
+  enable: false
+"rook-ceph-cluster":
   enable: false
